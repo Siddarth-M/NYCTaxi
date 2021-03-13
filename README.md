@@ -13,6 +13,7 @@ The follwing packages were used:
 * descartes
 * matplotlib pyplot
 * pyshp
+* sklearn
 
 
 ### Folder Organization ###
