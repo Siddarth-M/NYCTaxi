@@ -36,4 +36,4 @@ Feel free to download the data.csv file and change the directory to access it ap
 
 
 ### Visualizations ###
-All the vizualisations use in the presentation can be found in the Final_Viz_team23.ipynb file, and the images we generated are stored alongside in the Presentation_Visualization folder. The visualization done after time of presentation are added in the heat_map folder under VisualizationNotebooks folder.
+All the vizualisations use in the presentation can be found in the Final_Viz_team23.ipynb file, and the images we generated are stored alongside in the Presentation_Visualization folder under Visualization notebooks folder. The visualization done after time of presentation are added in the heat_map folder in the same folder.
