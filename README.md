@@ -4,7 +4,9 @@ This project uses public data set from the NYC TLC website to look for the pick-
 
 Group 23, consists of 5 members as follows:-
 
-Siddarth: Github @Siddarth-M : Email simeenak@ucsd.edu
+Siddarth: MAE, UCSD 
+Email simeenak@ucsd.edu
+
 
 ### Dependencies ###
 Install dependencies
