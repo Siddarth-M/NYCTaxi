@@ -28,7 +28,7 @@ Each month has about 1 million data points. 12 months of 2019 contains approxima
 
 ### Usage ###
 
-We have written code to directly download the csv files as you run the code using the python standard module [urllib.request](https://docs.python.org/3/library/urllib.request.html).
+We have written code to directly download the csv files as you run the code using the python standard module [urllib.request](https://docs.python.org/3/library/urllib.request.html) because each month's csv file is approximately 700MB.
 Feel free to download the trip_records.csv file from the NYC TLC webpage incase there is an error in accessing the url using the urllib module and store in the proper directory to access it or the code accesses the file directly without downloading it from the webpage specified.
 
 
