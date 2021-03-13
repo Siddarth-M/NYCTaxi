@@ -16,7 +16,7 @@ The follwing packages were used:
 
 
 ### Folder Organization ###
- - images : contains images generated, or used by our code.
+ 
  - VizualisationNotebooks : contains all Jupyter Notebooks + the Final_notebook.ipynb which mirrors all the visualizations provided in the presentation
  - src : contains python source codes that we used to figure the dataset out and experiment on
 
