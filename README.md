@@ -15,9 +15,6 @@ The following packages were used:
 * pyshp
 * sklearn
 
-'''python
-pip install -r requirements.txt
-'''
 
 ### Folder Organization ###
  
