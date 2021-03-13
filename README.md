@@ -25,7 +25,7 @@ The following packages were used:
 All the data we used can be found in the following link: https://www1.nyc.gov/site/tlc/about/tlc-trip-record-data.page
 
 We have written code to directly download the csv files as you run the code using the python standard module [urllib.request](https://docs.python.org/3/library/urllib.request.html).
-Feel free to download the trip_records.csv file from the NYC TLC webpage incase there is an error in accessing the url using the urllib module and store in the proper directory to access it.
+Feel free to download the trip_records.csv file from the NYC TLC webpage incase there is an error in accessing the url using the urllib module and store in the proper directory to access it or the code accesses the file directly without downloading it from the webpage specified.
 
 
 ### Visualizations ###
