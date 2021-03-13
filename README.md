@@ -12,7 +12,7 @@ The following packages were used:
 * shapely
 * SQLAlchemy
 * descartes
-* matplotlib pyplot
+* matplotlib
 * pyshp
 * sklearn
 
