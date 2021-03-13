@@ -3,4 +3,4 @@ Modular Python files to implement various visualizations along with cleaning/usi
 
 pip install -r requirements.txt 
 
-in the folder src folder before running the codes, contains the modules required to run all the code!
+in the src folder before running the codes, contains the modules required to run all the code!
