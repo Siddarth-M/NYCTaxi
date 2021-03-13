@@ -31,7 +31,7 @@ The follwing packages were used:
 ### Usage ###
 All the data we used can be found in the following link: https://www1.nyc.gov/site/tlc/about/tlc-trip-record-data.page
 
-We stored our dataset outside the GitHub repository to avoid pushing large objects frequently.
+We have written code to directly download the csv files as you run the code using the python standard module [urllib.request](https://docs.python.org/3/library/urllib.request.html)
 Feel free to download the data.csv file and change the directory to access it appropriately.
 
 
