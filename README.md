@@ -5,7 +5,8 @@ This project uses public data set from the NYC TLC website to look for the pick-
 ### Dependencies ###
 Install dependencies
 
-The follwing packages were used:
+The following packages were used:
+
 * pandas
 * numpy
 * shapely
