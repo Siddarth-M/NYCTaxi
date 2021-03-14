@@ -28,9 +28,9 @@ The following packages were used:
 
 In the main folder:
 
- [Group_23_NYC_taxi.pdf](Group_23_NYC_taxi.pdf) -- presentation slides in pdf format
+ - [Group_23_NYC_taxi.pdf](Group_23_NYC_taxi.pdf) -- presentation slides in pdf format
  
- [Group23_Assignment7.ipynb](Group23_Assignment7.ipynb) -- Assignment test cases as a  Notebook file
+ - [Group23_Assignment7.ipynb](Group23_Assignment7.ipynb) -- Assignment test cases as a  Notebook file
  
  - VizualisationNotebooks : Visualization used in the presentation are in the Presentation_Visualization folder and the visualizations done post-presentation are in the heat map  visualization folder.
  - src : contains python source codes that we used to figure the dataset out and experiment on
