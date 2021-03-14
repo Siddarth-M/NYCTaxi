@@ -4,6 +4,14 @@ This project uses public data set from the NYC TLC website to look for the pick-
 
 ### Dependencies ###
 
+Clone repository
+
+Create venv
+
+```
+pip install -r requirements.txt
+```
+
 The following packages were used:
 
 * pandas
