@@ -43,4 +43,4 @@ Feel free to download the trip_records.csv file from the NYC TLC webpage incase 
 ### Visualizations ###
  [ECE143 Group 18 Presentation.pdf](./Presentation%20Slides/ECE143%20Group%2018%20Presentation.pdf) -- presentation slides in pdf format
 
-All the vizualisations use in the presentation can be found in the [Final_Viz_team23.ipynb](VisualizationNotebooks/Final_Viz_team23.ipynb) file, and the images we generated are stored alongside in the Presentation_Visualization folder under Visualization notebooks folder. The visualization done after time of presentation are added in the heat_map folder in the same folder.
+All the vizualisations use in the presentation can be found in the [Final_Viz_team23.ipynb](VisualizationNotebooks/Presentation_Visualization/Final_Viz_team23.ipynb) file, and the images we generated are stored alongside in the Presentation_Visualization folder under Visualization notebooks folder. The visualization done after time of presentation are added in the heat_map folder in the same folder.
