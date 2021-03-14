@@ -27,6 +27,7 @@ The following packages were used:
 ### Folder Organization ###
 
 In the main folder:
+
  [Group_23_NYC_taxi.pdf](Group_23_NYC_taxi.pdf) -- presentation slides in pdf format
  
  [Group23_Assignment7.ipynb](Group23_Assignment7.ipynb) -- Assignment test cases as a  Notebook file
