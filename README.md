@@ -31,7 +31,7 @@ In the main folder:
  
  [Group23_Assignment7.ipynb](Group23_Assignment7.ipynb) -- Assignment test cases as a  Notebook file
  
- - VizualisationNotebooks : contains all Jupyter Notebooks + the Final_notebook.ipynb which mirrors all the visualizations provided in the presentation
+ - VizualisationNotebooks : Visualization used in the presentation are in the Presentation_Visualization folder and the visualizations done post-presentation are in the heat map  visualization folder.
  - src : contains python source codes that we used to figure the dataset out and experiment on
 
 ### Dataset ###
